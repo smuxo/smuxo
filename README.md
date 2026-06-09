@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=vortex&height=320&color=0:0a0a1a,40:0f0f23,80:1e3a8a,100:06b6d4&text=smuxo&fontColor=ffffff&fontSize=100&fontAlignY=45&animation=fadeIn&desc=developer%20%E2%80%A2%20space%20%E2%80%A2%20games%20%E2%80%A2%20ai&descSize=20&descAlignY=64&stroke=22d3ee&strokeWidth=1"/>

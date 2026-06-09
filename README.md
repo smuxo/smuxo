@@ -14,10 +14,6 @@
 &nbsp;
 [![Site](https://img.shields.io/badge/smuxo.pages.dev-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://smuxo.pages.dev)
 
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </div>
 
 <br/>
@@ -47,147 +43,138 @@ const smuxo = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠 Чо я сделал
+🛠 Чо я сделал
 
 <br/>
-
-<!---------------------- FLICK ---------------------->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0a0a1a,100:06b6d4&text=%F0%9F%92%AC%20FLICK&fontColor=ffffff&fontSize=28&fontAlign=8&fontAlignY=65&desc=собственный%20мессенджер&descSize=14&descAlign=18&descAlignY=65&section=normal"/>
 
 <br/>
 
-> Что-то между Telegram, Discord и моими собственными идеями. Лучше чем MAX)
+Что-то между Telegram, Discord и моими собственными идеями. Лучше чем MAX)
 
-<img src="./assets/FLICK.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/smuxo/smuxo/main/assets/FLICK.png" width="100%"/>
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=smuxo&repo=FLICK&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=2563eb&text_color=c9d1d9)](https://github.com/smuxo/FLICK)
+https://github-readme-stats.vercel.app/api/pin/?username=smuxo&repo=FLICK&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=2563eb&text_color=c9d1d9
 
 </div>
 
-![Status](https://img.shields.io/badge/статус-в_разработке-06b6d4?style=flat-square&logo=rocket&logoColor=white)
-![Stack](https://img.shields.io/badge/Web%20%2F%20Firebase-2563eb?style=flat-square&logo=firebase&logoColor=white)
-![Type](https://img.shields.io/badge/type-messenger-8b5cf6?style=flat-square)
+https://img.shields.io/badge/статус-в_разработке-06b6d4?style=flat-square&logo=rocket&logoColor=white
+https://img.shields.io/badge/Web%20%2F%20Firebase-2563eb?style=flat-square&logo=firebase&logoColor=white
+https://img.shields.io/badge/type-messenger-8b5cf6?style=flat-square
 
-**Что внутри:** 💬 Чаты · 📎 Медиа · ✨ Современный UI · 🔄 Постоянное развитие
+Что внутри: 💬 Чаты · 📎 Медиа · ✨ Современный UI · 🔄 Постоянное развитие
 
 <br/>
-
-<!---------------------- smuxo-knight ---------------------->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0a0a1a,100:f59e0b&text=%E2%9A%94%EF%B8%8F%20smuxo-knight&fontColor=ffffff&fontSize=28&fontAlign=12&fontAlignY=65&desc=игра%20в%20стиле%20Hollow%20Knight&descSize=14&descAlign=24&descAlignY=65&section=normal"/>
 
 <br/>
 
-> Мой основной проект на данный момент. Атмосфера, исследование, бои.
+Мой основной проект на данный момент. Атмосфера, исследование, бои.
 
-<img src="./assets/smuxo-knight.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/smuxo/smuxo/main/assets/smuxo-knight.png" width="100%"/>
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=smuxo&repo=smuxo-knight&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9)](https://github.com/smuxo/smuxo-knight)
+https://github-readme-stats.vercel.app/api/pin/?username=smuxo&repo=smuxo-knight&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=f59e0b&text_color=c9d1d9
 
 </div>
 
-![Status](https://img.shields.io/badge/статус-🟢_активная_разработка-22c55e?style=flat-square)
-![Progress](https://img.shields.io/badge/прогресс-75%25-f59e0b?style=flat-square)
-![Engine](https://img.shields.io/badge/vanilla%20JS%20%2B%20Canvas-2563eb?style=flat-square)
+https://img.shields.io/badge/статус-🟢_активная_разработка-22c55e?style=flat-square
+https://img.shields.io/badge/прогресс-75%25-f59e0b?style=flat-square
+https://img.shields.io/badge/vanilla%20JS%20%2B%20Canvas-2563eb?style=flat-square
 
-**Фишки:** Атмосферный мир · Исследование локаций · Бои · Собственный стиль · Медленно, но красиво (надеюсь)
+Фишки: Атмосферный мир · Исследование локаций · Бои · Собственный стиль · Медленно, но красиво (надеюсь)
 
 <br/>
-
-<!---------------------- Kosmos ---------------------->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0a0a1a,100:8b5cf6&text=%F0%9F%8C%8C%20Kosmos&fontColor=ffffff&fontSize=28&fontAlign=8&fontAlignY=65&desc=мини%20Space%20Engine&descSize=14&descAlign=18&descAlignY=65&section=normal"/>
 
 <br/>
 
-> Эксперименты с космосом, планетами и звёздными системами.
+Эксперименты с космосом, планетами и звёздными системами.
 
-<img src="./assets/Kosmos.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/smuxo/smuxo/main/assets/Kosmos.png" width="100%"/>
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=smuxo&repo=Kosmos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9)](https://github.com/smuxo/Kosmos)
+https://github-readme-stats.vercel.app/api/pin/?username=smuxo&repo=Kosmos&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9
 
 </div>
 
-![Status](https://img.shields.io/badge/статус-эксперимент-8b5cf6?style=flat-square)
-![Tech](https://img.shields.io/badge/Three.js-06b6d4?style=flat-square&logo=threedotjs&logoColor=white)
-![Science](https://img.shields.io/badge/real%20star%20data-f59e0b?style=flat-square)
+https://img.shields.io/badge/статус-эксперимент-8b5cf6?style=flat-square
+https://img.shields.io/badge/Three.js-06b6d4?style=flat-square&logo=threedotjs&logoColor=white
+https://img.shields.io/badge/real%20star%20data-f59e0b?style=flat-square
 
-**Планируется:** Нормальный млечный путь · Фикс уймы багов · Реальные данные звёзд · Генерация галактик
+Планируется: Нормальный млечный путь · Фикс уймы багов · Реальные данные звёзд · Генерация галактик
 
 <br/>
-
-<!---------------------- smuxo-Hack ---------------------->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0a0a1a,100:22c55e&text=%F0%9F%94%93%20smuxo-Hack&fontColor=ffffff&fontSize=28&fontAlign=10&fontAlignY=65&desc=мультитул%20для%20мамкиных%20хакеров&descSize=14&descAlign=22&descAlignY=65&section=normal"/>
 
 <br/>
 
-> Набор утилит для всякого разного. HTML → APK и другие эксперименты.
+Набор утилит для всякого разного. HTML → APK и другие эксперименты.
 
-<img src="./assets/smuxo-hack.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/smuxo/smuxo/main/assets/smuxo-hack.png" width="100%"/>
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=smuxo&repo=smuxo-Hack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9)](https://github.com/smuxo/smuxo-Hack)
+https://github-readme-stats.vercel.app/api/pin/?username=smuxo&repo=smuxo-Hack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9
 
 </div>
 
-![Status](https://img.shields.io/badge/статус-в_разработке-06b6d4?style=flat-square)
-![Type](https://img.shields.io/badge/type-toolset-22c55e?style=flat-square)
+https://img.shields.io/badge/статус-в_разработке-06b6d4?style=flat-square
+https://img.shields.io/badge/type-toolset-22c55e?style=flat-square
 
-**Возможности:** HTML → APK · Утилиты · Генераторы · Различные эксперименты
+Возможности: HTML → APK · Утилиты · Генераторы · Различные эксперименты
 
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Сейчас пилю
+🎯 Сейчас пилю
 
 <br/>
 
 <div align="center">
 
-| &nbsp; | Проект | Прогресс | Статус |
-|:------:|--------|----------|:------:|
-| ⚔️ | smuxo-knight | ![75%](https://progress-bar.xyz/75/?scale=100&title=&width=220&color=06b6d4&suffix=%) | 🟢 Активно |
-| 💬 | FLICK | ![50%](https://progress-bar.xyz/50/?scale=100&title=&width=220&color=2563eb&suffix=%) | 🔵 В процессе |
-| 🔓 | smuxo-Hack | ![40%](https://progress-bar.xyz/40/?scale=100&title=&width=220&color=8b5cf6&suffix=%) | 🟡 Медленно |
-| 🌌 | Kosmos | ![30%](https://progress-bar.xyz/30/?scale=100&title=&width=220&color=f59e0b&suffix=%) | 🟠 Идеи |
+&nbsp; Проект Прогресс Статус
+⚔️ smuxo-knight https://progress-bar.xyz/75/?scale=100&title=&width=220&color=06b6d4&suffix=% 🟢 Активно
+💬 FLICK https://progress-bar.xyz/50/?scale=100&title=&width=220&color=2563eb&suffix=% 🔵 В процессе
+🔓 smuxo-Hack https://progress-bar.xyz/40/?scale=100&title=&width=220&color=8b5cf6&suffix=% 🟡 Медленно
+🌌 Kosmos https://progress-bar.xyz/30/?scale=100&title=&width=220&color=f59e0b&suffix=% 🟠 Идеи
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Плашки 😍
+Плашки 😍
 
 <br/>
 
 <div align="center">
 
-**— Frontend —**
+— Frontend —
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,threejs&theme=dark)](https://skillicons.dev)
+https://skillicons.dev/icons?i=html,css,js,ts,react,threejs&theme=dark
 
-**— Backend & DB —**
+— Backend & DB —
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,firebase,prisma,postgres&theme=dark)](https://skillicons.dev)
+https://skillicons.dev/icons?i=nodejs,firebase,prisma,postgres&theme=dark
 
-**— AI & Tools —**
+— AI & Tools —
 
-[![Skills](https://skillicons.dev/icons?i=python,cloudflare,git,figma&theme=dark)](https://skillicons.dev)
+https://skillicons.dev/icons?i=python,cloudflare,git,figma&theme=dark
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub
+📊 GitHub
 
 <br/>
 
@@ -220,7 +207,6 @@ const smuxo = {
 
 <br/>
 
-<!-- 🐍 Snake — нужен GitHub Action: https://github.com/Platane/snk -->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smuxo/smuxo/output/github-contribution-grid-snake-dark.svg"/>
@@ -231,19 +217,19 @@ const smuxo = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Найти меня
+🌐 Найти меня
 
 <br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-smuxo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smuxo)
+https://img.shields.io/badge/GitHub-smuxo-0d1117?style=for-the-badge&logo=github&logoColor=white
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-@smuxo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smuxo)
+https://img.shields.io/badge/Telegram-@smuxo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white
 &nbsp;
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-smuxo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/smuxo)
+https://img.shields.io/badge/HuggingFace-smuxo-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
 &nbsp;
-[![Site](https://img.shields.io/badge/smuxo.pages.dev-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white)](https://smuxo.pages.dev)
+https://img.shields.io/badge/smuxo.pages.dev-06b6d4?style=for-the-badge&logo=cloudflare&logoColor=white
 
 </div>
 
@@ -251,12 +237,10 @@ const smuxo = {
 
 <div align="center">
 
-### 🌌 Спасибо, что заглянул
+🌌 Спасибо, что заглянул
 
-> *"Эволюция продолжается, а smuxo её обгоняет."*
+"Эволюция продолжается, а smuxo её обгоняет."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:06b6d4,50:2563eb,100:0a0a1a"/>
 
 </div>
-ENDOFFILE
-echo "Done"

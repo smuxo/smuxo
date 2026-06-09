@@ -258,4 +258,3 @@ const smuxo = {
 <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:06b6d4,50:2563eb,100:0a0a1a"/>
 
 </div>
-

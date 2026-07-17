@@ -2,85 +2,86 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0f23,50:2563eb,100:06b6d4&text=smuxo&fontColor=ffffff&fontSize=90&animation=fadeIn&desc=developer%20%7C%20space%20%7C%20ai%20%7C%20games&descAlignY=65"/>
 
-# Дароу
+# Дароу 👋
 
-### Космос • Хак • Игры • FLICK • Ленивость
+### Космос • Хак • Игры • ИИ • Ленивость
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+cool+stuff;Working+on+smuxo-knight;Exploring+and+Space;Welcome+to+my+GitHub"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+cool+stuff;Working+on+SMUXO;Chatting+with+Gemma+in+Gemmi;Exploring+Space;Welcome+to+my+GitHub"/>
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@smuxo-22D3EE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0f0f23)](https://t.me/smuxo)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-smuxo-2563eb?style=for-the-badge&labelColor=0f0f23)](https://huggingface.co/smuxo)
+![Focus](https://img.shields.io/badge/Сейчас_пилю-SMUXO-06b6d4?style=for-the-badge&labelColor=0f0f23)
 
 </div>
 
----
+<br/>
 
-# ⚡ whoami
+## ⚡ whoami
 
 ```javascript
 const smuxo = {
   greeting: "Дароу",
 
   currentlyBuilding: [
-    "FLICK",
-    "smuxo-knight",
-    "Kosmos",
-    "smuxo-Hack"
+    "Gemmi",       // ИИ в кармане
+    "SMUXO",       // ASCII-роглайк
+    "Kosmos",      // космос
+    "smuxo-Hack"   // мультитул
   ],
 
-  interests: [
-    "AI",
-    "Space",
-    "Games",
-    "Web",
-    "Design"
-  ],
+  interests: ["AI", "Space", "Games", "Web", "Design"],
 
-  motto:
-    "Код без идеи — очередная хуйня"
+  motto: "Код без идеи — очередная хуйня"
 };
 ```
 
----
+<br/>
 
-# Чо я сделал
+## 🛠️ Чо я сделал
 
-## FLICK
+### 💎 Gemmi
 
-Собственный мессенджер.
+Собственный ИИ-чат для Android.
 
-Что-то между Telegram, Discord и моими собственными идеями. Как по мне лучшее предложение вместо MAX)
+Клиент для моделей **Google Gemma** — стриминг ответов, markdown, персоны, картинки, голос и озвучка. Лёгкий, быстрый, без подписок и лишней шелухи.
 
-<img src="./assets/FLICK.png" width="100%">
+<img src="./assets/gemmi.png" width="100%">
 
 **Что внутри:**
 
-* Чаты
-* Группы
-* Медиа
-* Современный UI
-* Постоянное развитие
+* 💬 Стриминг ответов в реальном времени
+* 🎭 Персоны и пресеты
+* 🖼️ Вложения картинок
+* 🎙️ Голосовой ввод + озвучка
+* 💾 Бэкап и восстановление чатов
+
+<div align="right"><sub>🟢 Активная разработка</sub></div>
 
 ---
 
-## smuxo-knight
+### ⚔️ SMUXO
 
-Игра в стиле Hollow Knight.
+ASCII-роглайк в духе Stone Story RPG и Hollow Knight.
 
-Мой основной проект на данный момент.
+Мой основной проект на данный момент. Целый мир из псевдографики.
 
-<img src="./assets/smuxo-knight.png" width="100%">
+<img src="./assets/smuxo.png" width="100%">
 
 **Фишки:**
 
-* Атмосферный мир
-* Исследование локаций
-* Бои
-* Собственный стиль
-(я ленивый делаю долго)
+* 🗺️ Ветвящийся мир с картой в стиле Hollow Knight
+* 🪞 Парирование через зеркало
+* 💀 Боссы с фазами
+* 🎨 Своя палитра для каждой локации
+* 😴 (я ленивый, делаю долго)
 
-🟢 Активная разработка
+<div align="right"><sub>🟢 Активная разработка</sub></div>
 
 ---
 
-## Kosmos
+### 🌌 Kosmos
 
 Мини Space Engine.
 
@@ -90,14 +91,14 @@ const smuxo = {
 
 **Планируется:**
 
-* Норм млечный путь
-* Фикс уймы багов
-* Реальные данные звёзд
-* Генерация галактик
+* 🌠 Норм млечный путь
+* 🐛 Фикс уймы багов
+* ⭐ Реальные данные звёзд
+* 🌀 Генерация галактик
 
 ---
 
-## smuxo-Hack
+### 🧰 smuxo-Hack
 
 Мультитул для мамкиных хакеров.
 
@@ -105,90 +106,87 @@ const smuxo = {
 
 **Возможности:**
 
-* HTML → APK
-* Утилиты
-* Генераторы
-* Различные эксперименты
+* 📦 HTML → APK
+* 🔧 Утилиты
+* 🎲 Генераторы
+* 🧪 Различные эксперименты
 
----
+<br/>
 
-# Плашечки 😍
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge\&logo=threedotjs)
-
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge\&logo=firebase)
-![Prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge\&logo=prisma)
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=for-the-badge\&logo=huggingface)
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge\&logo=cloudflare)
-
-</div>
-
----
-
-# 📊 GitHub
+## 🏷️ Плашечки 😍
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smuxo&show_icons=true&theme=tokyonight&hide_border=true"/>
+![HTML5](https://img.shields.io/badge/HTML5-0f0f23?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f0f23?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f23?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0f0f23?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-0f0f23?style=for-the-badge&logo=threedotjs&logoColor=white)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smuxo&layout=compact&theme=tokyonight&hide_border=true"/>
+![Node.js](https://img.shields.io/badge/Node.js-0f0f23?style=for-the-badge&logo=node.js&logoColor=339933)
+![Firebase](https://img.shields.io/badge/Firebase-0f0f23?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Prisma](https://img.shields.io/badge/Prisma-0f0f23?style=for-the-badge&logo=prisma&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-0f0f23?style=for-the-badge&logo=python&logoColor=3776AB)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0f0f23?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![Android](https://img.shields.io/badge/Android-0f0f23?style=for-the-badge&logo=android&logoColor=3DDC84)
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0f0f23?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 </div>
+
+<br/>
+
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=smuxo&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=smuxo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=22D3EE&icon_color=2563eb"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smuxo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f23&title_color=22D3EE"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=smuxo&theme=tokyonight&hide_border=true&background=0f0f23&ring=22D3EE&fire=06b6d4&currStreakLabel=22D3EE"/>
 
 </div>
 
----
+<br/>
 
-# 🎯 Сейчас пилю
+## 🎯 Сейчас пилю
 
 ```text
-smuxo-knight
-███████████████░░░░ 75%
+SMUXO
+███████████████░░░░ 75%   ⚔️ основной фокус
 
-FLICK
-██████████░░░░░░░░░ 50%
+Gemmi
+██████████████░░░░░ 70%   💎 почти готов
 
 Kosmos
-██████░░░░░░░░░░░░░ 30%
+██████░░░░░░░░░░░░░ 30%   🌌 когда-нибудь
 
-smuxo-hack
-████████░░░░░░░░░░░ 40%
+smuxo-Hack
+████████░░░░░░░░░░░ 40%   🧰 по настроению
 ```
 
----
+<br/>
 
-# 🌐 Найти меня
+## 🌐 Найти меня
 
-github
-ты уже нашёл)
+<div align="center">
 
-Telegram:
-https://t.me/smuxo
+| Где | Что |
+|:---:|:---:|
+| 🐙 **GitHub** | ты уже нашёл) |
+| ✈️ **Telegram** | [t.me/smuxo](https://t.me/smuxo) |
+| 🤗 **Hugging Face** | [huggingface.co/smuxo](https://huggingface.co/smuxo) |
 
-Hugging Face
-https://huggingface.co/smuxo
+</div>
 
----
+<br/>
 
 <div align="center">
 
 ### 🌌 Спасибо, что заглянул
 
-> "Эволюция продолжается, а smuxo её обгоняет."
+> «Эволюция продолжается, а smuxo её обгоняет.»
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:06b6d4,50:2563eb,100:0f0f23"/>
 
